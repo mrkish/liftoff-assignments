@@ -4,6 +4,7 @@ Sendfriend is a Java/Spring web application that allows climbers to journal thei
 As users save more and more information in the system they'll gain an idea of their progress, which will be visualized in a statistics section of their profile. I also hope to implement a map overlay to display the various areas that climbers have visited in their journey, allowing them to take a retrospective on their climbing experiences and trips.
 
 ### Features
+Climbers can:
 - Capture detailed notes about partcular routes -- grade, rating, beta, etc.
 - Share their beta with other users -- or not.
 - View their progression as a climber over time in a statistics section of the user profile.
@@ -18,5 +19,5 @@ As users save more and more information in the system they'll gain an idea of th
 - How to enable making user data public/private and sharable between users
 - React and JavaScript for front end statistics and graph display
 
-### Project Tracker
+### Sendfriend Project Tracker
 [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2184779)
