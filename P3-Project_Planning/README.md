@@ -1,32 +1,24 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
-
 ### Wireframes
 
 Homepage:
 
-![Sendfriend - Homepage](mrkish.github.com/img/Sendfriend - Home.png)
+![Sendfriend - Homepage](https://raw.githubusercontent.com/mrkish/liftoff-assignments/master/P3-Project_Planning/Sendfriend%20-%20Home.png)
 
 User stats page:
 
-![Sendfriend - Homepage](mrkish.github.com/img/Sendfriend - User Stats.png)
+![Sendfriend - Homepage](https://raw.githubusercontent.com/mrkish/liftoff-assignments/master/P3-Project_Planning/Sendfriend%20-%20User%20Stats.png)
 
 Add beta/route form:
 
-![Sendfriend - Homepage](mrkish.github.com/img/Sendfriend - Add Route Form.png)
+![Sendfriend - Homepage](https://raw.githubusercontent.com/mrkish/liftoff-assignments/master/P3-Project_Planning/Sendfriend%20-%20Add%20Route%20Form.png)
 
 View routes/beta page:
 
-![Sendfriend - Homepage](mrkish.github.com/img/Sendfriend - View Beta List.png)
+![Sendfriend - Homepage](https://github.com/mrkish/liftoff-assignments/blob/master/P3-Project_Planning/Sendfriend%20-%20View%20Beta%20List.png)
 
 View single route beta:
 
-![Sendfriend - Homepage](mrkish.github.com/img/Sendfriend - Single Route Beta.png)
+![Sendfriend - Homepage](https://github.com/mrkish/liftoff-assignments/blob/master/P3-Project_Planning/Sendfriend%20-%20Single%20Route%20Beta.png)
 
 ### Sendfriend Repository:
 [Sendfriend on Github](https://github.com/mrkish/sendfriend)
